@@ -127,7 +127,7 @@ Article.publisher = "Ilya Kantor";
 
 Statics are inhereted, we can access `Parent.method` as `Child.method`.
 
-For instance, `Animal.compare` in the code below is inhereted and accessible as `Rabbit.compare`:
+For instance, `Animal.compare` in the code below is inherited and accessible as `Rabbit.compare`:
 
 ```js run
 class Animal {
